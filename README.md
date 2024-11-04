@@ -5,10 +5,10 @@ Create Code for resolve exercise in Classes
 - [x] Hello Poblenou
 - [x] Introduce Yourself 
 - [x] Dam Mitjana Aritmetica
-- [ ] Mitjana Aritmetica Ponderada
-- [ ] Temps Clases
-- [ ] Temps Clases Invertit
-- [ ] Temps Perdut
-- [ ] Wifi Radi
-- [ ] Distancies entre punts
-- [ ] Repartiment Pressupost 
+- [x] Mitjana Aritmetica Ponderada
+- [x] Temps Clases
+- [x] Temps Clases Invertit
+- [x] Temps Perdut
+- [x] Wifi Radi
+- [x] Distancies entre punts
+- [x] Repartiment Pressupost 
