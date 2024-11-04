@@ -14,13 +14,13 @@ Create Code for resolve exercise in Classes
 - [x] Repartiment Pressupost 
 ## Condicionales Exercises
 - [x] Major Edat
-- [ ] Nou Curs
-- [ ] Nou Curs v2
-- [ ] El mes gran
-- [ ] La calculadora
-- [ ] Dia de la semana
-- [ ] Matricula Poblenou
-- [ ] Tarifes publiques
-- [ ] Semafor
-- [ ] Dies mes
+- [x] Nou Curs
+- [x] Nou Curs v2
+- [x] El mes gran
+- [x] La calculadora
+- [x] Dia de la semana
+- [x] Matricula Poblenou
+- [x] Tarifes publiques
+- [x] Semafor
+- [x] Dies mes
       
