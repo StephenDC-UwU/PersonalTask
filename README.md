@@ -4,3 +4,4 @@ Create Code for resolve exercise in Classes
 ## Secuenciales Exercises
 - [x] Hello Poblenou
 - [x] Introduce Yourself 
+- [ ] Dam Mitjana Aritmetica 
