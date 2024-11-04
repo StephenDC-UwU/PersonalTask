@@ -12,3 +12,15 @@ Create Code for resolve exercise in Classes
 - [x] Wifi Radi
 - [x] Distancies entre punts
 - [x] Repartiment Pressupost 
+## Condicionales Exercises
+- [x] Major Edat
+- [ ] Nou Curs
+- [ ] Nou Curs v2
+- [ ] El mes gran
+- [ ] La calculadora
+- [ ] Dia de la semana
+- [ ] Matricula Poblenou
+- [ ] Tarifes publiques
+- [ ] Semafor
+- [ ] Dies mes
+      
