@@ -23,4 +23,35 @@ Create Code for resolve exercise in Classes
 - [x] Tarifes publiques
 - [x] Semafor
 - [x] Dies mes
+## Iterativos Exercises
+- [x] Fins al N
+- [ ] Copies Automatiques
+- [ ] Parells
+- [ ] Recorregut descendent
+- [ ] Suma N nombres
+- [ ] Suma N nombres divisbles de 11
+- [ ] Control de Temperatura
+- [ ] Multipiplicacion per potencia
+- [ ] Sumes por multiplicacio
+- [ ] Desnivell Ciclista
+- [ ] La linea
+- [ ] El quadret ple
+- [ ] El quedret buit
+- [ ] La creu
+- [ ] Divisors
+- [ ] Primers
+- [ ] Narcicistes
+- [ ] Nombre amics
+- [ ] Capicua
+- [ ] Descomposicio factorial
+- [ ] Aparicio Digit
+- [ ] Grafic Coronavirus
+- [ ] Positius vs Negatius
+- [ ] Consecutius
+- [ ] MCD
+- [ ] MCM
+- [ ] Scrabble
+- [ ] Bandera Sant Jordi
+- [ ] Piramide
+- [ ] Max i min d'un grafic
       
