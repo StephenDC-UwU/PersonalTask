@@ -25,33 +25,33 @@ Create Code for resolve exercise in Classes
 - [x] Dies mes
 ## Iterativos Exercises
 - [x] Fins al N
-- [ ] Copies Automatiques
-- [ ] Parells
-- [ ] Recorregut descendent
-- [ ] Suma N nombres
-- [ ] Suma N nombres divisbles de 11
-- [ ] Control de Temperatura
-- [ ] Multipiplicacion per potencia
-- [ ] Sumes por multiplicacio
-- [ ] Desnivell Ciclista
-- [ ] La linea
-- [ ] El quadret ple
-- [ ] El quedret buit
-- [ ] La creu
-- [ ] Divisors
-- [ ] Primers
-- [ ] Narcicistes
-- [ ] Nombre amics
-- [ ] Capicua
-- [ ] Descomposicio factorial
-- [ ] Aparicio Digit
-- [ ] Grafic Coronavirus
-- [ ] Positius vs Negatius
-- [ ] Consecutius
-- [ ] MCD
-- [ ] MCM
-- [ ] Scrabble
-- [ ] Bandera Sant Jordi
-- [ ] Piramide
-- [ ] Max i min d'un grafic
+- [x] Copies Automatiques
+- [x] Parells
+- [x] Recorregut descendent
+- [x] Suma N nombres
+- [x] Suma N nombres divisbles de 11
+- [x] Control de Temperatura
+- [x] Multipiplicacion per potencia
+- [x] Sumes por multiplicacio
+- [x] Desnivell Ciclista
+- [x] La linea
+- [x] El quadret ple
+- [x] El quedret buit
+- [x] La creu
+- [x] Divisors
+- [x] Primers
+- [x] Narcicistes
+- [x] Nombre amics
+- [x] Capicua
+- [x] Descomposicio factorial
+- [x] Aparicio Digit
+- [x] Grafic Coronavirus
+- [x] Positius vs Negatius
+- [x] Consecutius
+- [x] MCD
+- [x] MCM
+- [x] Scrabble
+- [x] Bandera Sant Jordi
+- [x] Piramide
+- [x] Max i min d'un grafic
       
